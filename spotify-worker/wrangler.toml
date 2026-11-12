@@ -1,0 +1,6 @@
+name = "spotify-now-playing"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+ALLOWED_ORIGINS = "https://amanda.eng.br,http://localhost:8765"

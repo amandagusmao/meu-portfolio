@@ -1,0 +1,126 @@
+{
+  "updated": "2026-11-12T18:38:40+00:00",
+  "profile": "https://www.credly.com/users/amandagusmao",
+  "badges": [
+    {
+      "id": "a883482d-9309-44af-a57f-68f31c1c6214",
+      "name": "Agent Observability Metrics & Traces Learning Path",
+      "issuer": "Datadog",
+      "issued": "2026-09-24",
+      "image": "assets/badges/a883482d-9309-44af-a57f-68f31c1c6214.png",
+      "url": "https://www.credly.com/badges/a883482d-9309-44af-a57f-68f31c1c6214/public_url"
+    },
+    {
+      "id": "476d5938-ee84-4e77-b9a5-7dc513139a29",
+      "name": "Explorer Technical Practitioner",
+      "issuer": "Grafana Labs",
+      "issued": "2026-03-30",
+      "image": "assets/badges/476d5938-ee84-4e77-b9a5-7dc513139a29.png",
+      "url": "https://www.credly.com/badges/476d5938-ee84-4e77-b9a5-7dc513139a29/public_url"
+    },
+    {
+      "id": "c9eea0a9-5519-4193-b53b-74b031c524b7",
+      "name": "PromQL Zero to Hero Navigator",
+      "issuer": "Grafana Labs",
+      "issued": "2026-03-30",
+      "image": "assets/badges/c9eea0a9-5519-4193-b53b-74b031c524b7.png",
+      "url": "https://www.credly.com/badges/c9eea0a9-5519-4193-b53b-74b031c524b7/public_url"
+    },
+    {
+      "id": "c97c4331-cbda-4a05-88cc-ebd112dd3aea",
+      "name": "Dashboard Design & Visual Storytelling Navigator",
+      "issuer": "Grafana Labs",
+      "issued": "2026-03-29",
+      "image": "assets/badges/c97c4331-cbda-4a05-88cc-ebd112dd3aea.png",
+      "url": "https://www.credly.com/badges/c97c4331-cbda-4a05-88cc-ebd112dd3aea/public_url"
+    },
+    {
+      "id": "5244d3ae-0e19-4f03-a62b-1b066d3a36ae",
+      "name": "LogQL Zero to Hero Navigator",
+      "issuer": "Grafana Labs",
+      "issued": "2026-03-29",
+      "image": "assets/badges/5244d3ae-0e19-4f03-a62b-1b066d3a36ae.png",
+      "url": "https://www.credly.com/badges/5244d3ae-0e19-4f03-a62b-1b066d3a36ae/public_url"
+    },
+    {
+      "id": "06b9804e-d02d-4590-b534-4d185a8225c9",
+      "name": "Observability Signals Foundations Navigator",
+      "issuer": "Grafana Labs",
+      "issued": "2026-03-27",
+      "image": "assets/badges/06b9804e-d02d-4590-b534-4d185a8225c9.png",
+      "url": "https://www.credly.com/badges/06b9804e-d02d-4590-b534-4d185a8225c9/public_url"
+    },
+    {
+      "id": "ec6a59af-c61d-408c-81b8-bbef08a14993",
+      "name": "Dynatrace Essentials",
+      "issuer": "Dynatrace",
+      "issued": "2026-03-25",
+      "image": "assets/badges/ec6a59af-c61d-408c-81b8-bbef08a14993.png",
+      "url": "https://www.credly.com/badges/ec6a59af-c61d-408c-81b8-bbef08a14993/public_url"
+    },
+    {
+      "id": "ff20ea44-52b2-41ac-8031-77b78c389300",
+      "name": "Python Programming with Red Hat (AD141) - Ver. 9.0",
+      "issuer": "Red Hat",
+      "issued": "2025-12-24",
+      "image": "assets/badges/ff20ea44-52b2-41ac-8031-77b78c389300.png",
+      "url": "https://www.credly.com/badges/ff20ea44-52b2-41ac-8031-77b78c389300/public_url"
+    },
+    {
+      "id": "5c4f64dd-e206-4967-ad1b-bf4c6e307be4",
+      "name": "Red Hat OpenShift Administration II: Configuring a Production Cluster (DO280) - Ver. 4.18",
+      "issuer": "Red Hat",
+      "issued": "2025-12-24",
+      "image": "assets/badges/5c4f64dd-e206-4967-ad1b-bf4c6e307be4.png",
+      "url": "https://www.credly.com/badges/5c4f64dd-e206-4967-ad1b-bf4c6e307be4/public_url"
+    },
+    {
+      "id": "4afefe97-f6a5-4d31-aea3-01b6b59f1e31",
+      "name": "Red Hat OpenShift Administration III: Scaling Deployments in the Enterprise (DO380) - Ver. 4.14",
+      "issuer": "Red Hat",
+      "issued": "2025-12-24",
+      "image": "assets/badges/4afefe97-f6a5-4d31-aea3-01b6b59f1e31.png",
+      "url": "https://www.credly.com/badges/4afefe97-f6a5-4d31-aea3-01b6b59f1e31/public_url"
+    },
+    {
+      "id": "39da0818-7bf8-4daa-a0ca-2a08c5ea1081",
+      "name": "Red Hat OpenShift Administration I: Operating a Production Cluster (DO180) - Ver. 4.14",
+      "issuer": "Red Hat",
+      "issued": "2025-12-24",
+      "image": "assets/badges/39da0818-7bf8-4daa-a0ca-2a08c5ea1081.png",
+      "url": "https://www.credly.com/badges/39da0818-7bf8-4daa-a0ca-2a08c5ea1081/public_url"
+    },
+    {
+      "id": "3bfd7421-adae-4684-84c3-26021e59db63",
+      "name": "Trailblazer Technical Practitioner",
+      "issuer": "Grafana Labs",
+      "issued": "2025-12-15",
+      "image": "assets/badges/3bfd7421-adae-4684-84c3-26021e59db63.png",
+      "url": "https://www.credly.com/badges/3bfd7421-adae-4684-84c3-26021e59db63/public_url"
+    },
+    {
+      "id": "20cdaaed-70d9-4708-aaf9-40c920ad74bc",
+      "name": "LFS169: Introduction to GitOps",
+      "issuer": "The Linux Foundation",
+      "issued": "2025-08-27",
+      "image": "assets/badges/20cdaaed-70d9-4708-aaf9-40c920ad74bc.png",
+      "url": "https://www.credly.com/badges/20cdaaed-70d9-4708-aaf9-40c920ad74bc/public_url"
+    },
+    {
+      "id": "c6fa8478-e1a4-456f-bbad-a062c0ebfbd6",
+      "name": "GROT Groundbreaker Badge",
+      "issuer": "Grafana Labs",
+      "issued": "2025-08-07",
+      "image": "assets/badges/c6fa8478-e1a4-456f-bbad-a062c0ebfbd6.png",
+      "url": "https://www.credly.com/badges/c6fa8478-e1a4-456f-bbad-a062c0ebfbd6/public_url"
+    },
+    {
+      "id": "3948916e-79f9-4971-8857-9d511113ac75",
+      "name": "LFS148: Getting Started with OpenTelemetry",
+      "issuer": "The Linux Foundation",
+      "issued": "2025-06-24",
+      "image": "assets/badges/3948916e-79f9-4971-8857-9d511113ac75.png",
+      "url": "https://www.credly.com/badges/3948916e-79f9-4971-8857-9d511113ac75/public_url"
+    }
+  ]
+}

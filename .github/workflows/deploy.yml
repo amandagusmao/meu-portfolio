@@ -1,0 +1,54 @@
+# Publica o portfólio no GitHub Pages (amanda.eng.br).
+# Roda a cada push, todo dia de manhã (para puxar badges novos do Credly e repositórios novos do GitHub)
+# e também manualmente pela aba Actions → "Deploy site" → "Run workflow".
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 9 * * *" # 06:17 em Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Atualizar badges (Credly) e repositórios (GitHub)
+        run: |
+          pip install --quiet pillow
+          python scripts/fetch_data.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true # se o Credly cair, publica com os dados já versionados
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

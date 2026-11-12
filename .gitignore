@@ -1,0 +1,10 @@
+# gerados localmente
+curriculo/out/
+/*.pdf
+__pycache__/
+
+# ferramentas
+.claude/
+spotify-worker/.wrangler/
+spotify-worker/node_modules/
+.dev.vars

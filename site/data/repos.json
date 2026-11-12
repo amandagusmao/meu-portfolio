@@ -1,0 +1,114 @@
+{
+  "updated": "2026-11-12T18:38:41+00:00",
+  "profile": "https://github.com/amandagusmao",
+  "repos": [
+    {
+      "name": "biblioteca-sobralia",
+      "description": "Biblioteca Digital de Sobrália/MG — acervo, empréstimos, cursos de informática e computadores",
+      "language": "TypeScript",
+      "url": "https://github.com/amandagusmao/biblioteca-sobralia",
+      "homepage": "https://biblioteca-sobralia.pages.dev",
+      "stars": 0,
+      "pushed": "2026-11-08T18:01:44Z"
+    },
+    {
+      "name": "grafana-chat-box",
+      "description": "",
+      "language": "Go",
+      "url": "https://github.com/amandagusmao/grafana-chat-box",
+      "homepage": "",
+      "stars": 0,
+      "pushed": "2026-02-13T20:04:57Z"
+    },
+    {
+      "name": "grafana-dash-exporter",
+      "description": "",
+      "language": null,
+      "url": "https://github.com/amandagusmao/grafana-dash-exporter",
+      "homepage": "",
+      "stars": 0,
+      "pushed": "2025-09-22T18:24:22Z"
+    },
+    {
+      "name": "guess_game",
+      "description": "",
+      "language": "TypeScript",
+      "url": "https://github.com/amandagusmao/guess_game",
+      "homepage": "",
+      "stars": 0,
+      "pushed": "2024-11-23T02:57:30Z"
+    },
+    {
+      "name": "conchayoro",
+      "description": "",
+      "language": null,
+      "url": "https://github.com/amandagusmao/conchayoro",
+      "homepage": "",
+      "stars": 0,
+      "pushed": "2024-08-27T23:09:40Z"
+    },
+    {
+      "name": "projeto_final06",
+      "description": "Projeto final IaC",
+      "language": "HCL",
+      "url": "https://github.com/amandagusmao/projeto_final06",
+      "homepage": "",
+      "stars": 0,
+      "pushed": "2024-07-31T00:18:09Z"
+    },
+    {
+      "name": "meu-curriculo",
+      "description": "Criação de currículo, usando JS",
+      "language": null,
+      "url": "https://github.com/amandagusmao/meu-curriculo",
+      "homepage": "",
+      "stars": 0,
+      "pushed": "2022-05-12T20:38:02Z"
+    },
+    {
+      "name": "SAP007-burger-queen-api-client",
+      "description": "Quarto Projeto - Laboratoria",
+      "language": "JavaScript",
+      "url": "https://github.com/amandagusmao/SAP007-burger-queen-api-client",
+      "homepage": "",
+      "stars": 0,
+      "pushed": "2022-05-10T17:51:09Z"
+    },
+    {
+      "name": "Social-Network",
+      "description": "Terceiro Projeto - Laboratoria",
+      "language": "JavaScript",
+      "url": "https://github.com/amandagusmao/Social-Network",
+      "homepage": "https://aragaolala.github.io/SAP007-social-network/",
+      "stars": 0,
+      "pushed": "2022-05-03T23:31:45Z"
+    },
+    {
+      "name": "Data_Lovers",
+      "description": "Segundo projeto Laboratoria",
+      "language": "JavaScript",
+      "url": "https://github.com/amandagusmao/Data_Lovers",
+      "homepage": "https://cahaguiar.github.io/SAP007-data-lovers/",
+      "stars": 1,
+      "pushed": "2022-03-21T17:01:09Z"
+    },
+    {
+      "name": "Project_Cipher",
+      "description": "Primeiro projeto - Cifra",
+      "language": "JavaScript",
+      "url": "https://github.com/amandagusmao/Project_Cipher",
+      "homepage": "https://amandagusmao.github.io/Project_Cipher/",
+      "stars": 1,
+      "pushed": "2022-02-02T23:33:50Z"
+    },
+    {
+      "name": "Meu-Site",
+      "description": "Site de Engenharia",
+      "language": "HTML",
+      "url": "https://github.com/amandagusmao/Meu-Site",
+      "homepage": "https://amandagusmao.github.io/Meu-Site/",
+      "stars": 1,
+      "pushed": "2021-04-13T17:19:47Z"
+    }
+  ]
+}
