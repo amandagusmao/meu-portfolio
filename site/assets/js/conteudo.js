@@ -22,7 +22,7 @@ window.CONTEUDO = {
      Enquanto estiver vazio, o painel mostra a trilha sonora padrão abaixo.
   --------------------------------------------------------------- */
   spotify: {
-    workerUrl: '',
+    workerUrl: 'https://spotify-now-playing.amandagusmao.workers.dev',
     perfil: 'https://open.spotify.com/user/amandahjt',
     padrao: { musica: 'Paramore', artista: { pt: 'banda favorita desde 2007', en: 'favorite band since 2007' } }
   },

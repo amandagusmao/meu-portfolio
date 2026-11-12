@@ -4,7 +4,13 @@ Um Cloudflare Worker pequeno que lê a música que você está ouvindo (ou a úl
 É preciso esse "intermediário" porque a API do Spotify exige uma chave secreta, que não pode ficar no código do site.
 Custo: zero (plano gratuito do Cloudflare Workers).
 
-## Passo a passo (uma vez só, ~10 minutos)
+## Jeito fácil
+
+Depois de criar o app no Spotify (passo 1 abaixo), rode `python spotify-worker/setup.py`: ele faz login no Cloudflare,
+publica o Worker, gera o token e guarda as chaves como segredos, sem mostrar nenhuma na tela.
+Já configurado em: `https://spotify-now-playing.amandagusmao.workers.dev`.
+
+## Passo a passo manual (uma vez só, ~10 minutos)
 
 ### 1. Criar o app no Spotify
 1. Entre em <https://developer.spotify.com/dashboard> com a sua conta do Spotify e aceite os termos de desenvolvedor, se pedir.
